@@ -1,0 +1,14 @@
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\DeploymentToolbox.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\DeploymentToolbox.Properties.Resources.resources
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\DeploymentToolbox.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\DeploymentToolbox.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.exe.config
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.exe
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.pdb
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.MathEngine.dll
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.TextUtils.dll
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.MathEngine.pdb
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.TextUtils.pdb
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\Deployme.DA1AAFE4.Up2Date
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\DeploymentToolbox.exe
+C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\obj\Debug\DeploymentToolbox.pdb

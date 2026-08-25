@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="Deployment Toolbox"
+			 Language="1033"
+			 Version="1.0.0.0"
+			 Manufacturer="Tom"
+			 UpgradeCode="CB77C7C0-1124-4B7B-B8BA-835943E4B9E4"
+			 InstallerVersion="500"
+			 Compressed="yes"
+		     Scope="perMachine">
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes" />
+
+		<Feature Id="ProductFeature" Title="DeploymentToolboxFeature" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+			<ComponentRef Id="ApplicationShortcut" />
+		</Feature>
+
+		<StandardDirectory Id="ProgramFilesFolder">
+			<Directory Id="INSTALLFOLDER" Name="Deployment Toolbox" />
+		</StandardDirectory>
+
+		<StandardDirectory Id="ProgramMenuFolder">
+			<Directory Id="ApplicationProgramsFolder" Name="Deployment Toolbox" />
+		</StandardDirectory>
+
+		<DirectoryRef Id="INSTALLFOLDER">
+			<Component Id="MainExecutable" Guid="*">
+				<File Id="DeploymentToolboxEXE"
+					  Source="$(var.DeploymentToolbox.TargetDir)DeploymentToolbox.exe"
+					  KeyPath="yes" />
+			</Component>
+			<Component Id="MathEngineDll" Guid="*">
+				<File Id="MathEngineDLL"
+					  Source="$(var.DeploymentToolbox.TargetDir)DeploymentToolbox.MathEngine.dll"
+					  KeyPath="yes" />
+			</Component>
+			<Component Id="TextUtilsDll" Guid="*">
+				<File Id="TextUtilsDLL"
+					  Source="$(var.DeploymentToolbox.TargetDir)DeploymentToolbox.TextUtils.dll"
+					  KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
+
+		<DirectoryRef Id="ApplicationProgramsFolder">
+			<Component Id="ApplicationShortcut" Guid="*">
+				<Shortcut Id="ApplicationStartMenuShortcut"
+						  Name="Deployment Toolbox"
+						  Description="SWE40006 Deployment Toolbox"
+						  Target="[#DeploymentToolboxEXE]"
+						  WorkingDirectory="INSTALLFOLDER" />
+				<RemoveFolder Id="CleanUpShortcutFolder" Directory="ApplicationProgramsFolder" On="uninstall" />
+				<RegistryValue Root="HKCU"
+								Key="Software\SWE40006\DeploymentToolbox"
+								Name="installed"
+								Type="integer"
+								Value="1"
+								KeyPath="yes" />
+			</Component>
+		</DirectoryRef>
+
+		<ComponentGroup Id="ProductComponents">
+			<ComponentRef Id="MainExecutable" />
+			<ComponentRef Id="MathEngineDll" />
+			<ComponentRef Id="TextUtilsDll" />
+		</ComponentGroup>
+
+	</Package>
+</Wix>

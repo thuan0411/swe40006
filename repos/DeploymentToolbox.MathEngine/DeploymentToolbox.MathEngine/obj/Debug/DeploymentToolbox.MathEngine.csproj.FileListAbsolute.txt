@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\DeploymentToolbox.MathEngine\DeploymentToolbox.MathEngine\obj\Debug\DeploymentToolbox.MathEngine.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\DeploymentToolbox.MathEngine\DeploymentToolbox.MathEngine\obj\Debug\DeploymentToolbox.MathEngine.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\DeploymentToolbox.MathEngine\DeploymentToolbox.MathEngine\bin\Debug\DeploymentToolbox.MathEngine.dll
+C:\Users\Tom\source\repos\DeploymentToolbox.MathEngine\DeploymentToolbox.MathEngine\bin\Debug\DeploymentToolbox.MathEngine.pdb
+C:\Users\Tom\source\repos\DeploymentToolbox.MathEngine\DeploymentToolbox.MathEngine\obj\Debug\DeploymentToolbox.MathEngine.dll
+C:\Users\Tom\source\repos\DeploymentToolbox.MathEngine\DeploymentToolbox.MathEngine\obj\Debug\DeploymentToolbox.MathEngine.pdb

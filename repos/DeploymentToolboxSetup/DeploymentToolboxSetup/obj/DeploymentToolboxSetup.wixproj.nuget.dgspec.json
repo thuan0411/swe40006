@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Tom\\source\\repos\\DeploymentToolboxSetup\\DeploymentToolboxSetup\\DeploymentToolboxSetup.wixproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Tom\\source\\repos\\DeploymentToolboxSetup\\DeploymentToolboxSetup\\DeploymentToolboxSetup.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tom\\source\\repos\\DeploymentToolboxSetup\\DeploymentToolboxSetup\\DeploymentToolboxSetup.wixproj",
+        "projectName": "DeploymentToolboxSetup",
+        "projectPath": "C:\\Users\\Tom\\source\\repos\\DeploymentToolboxSetup\\DeploymentToolboxSetup\\DeploymentToolboxSetup.wixproj",
+        "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tom\\source\\repos\\DeploymentToolboxSetup\\DeploymentToolboxSetup\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "framework": "native",
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "framework": "native",
+          "targetAlias": "native"
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

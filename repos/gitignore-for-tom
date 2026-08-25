@@ -1,0 +1,11 @@
+# Build outputs
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user/cache files
+.vs/
+*.user
+*.suo
+
+# macOS
+.DS_Store

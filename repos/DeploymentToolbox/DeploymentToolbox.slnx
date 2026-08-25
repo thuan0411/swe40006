@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../DeploymentToolbox.MathEngine/DeploymentToolbox.MathEngine/DeploymentToolbox.MathEngine.csproj" Id="e96ba851-e0f3-400a-a96a-44a080dba4bd" />
+  <Project Path="../DeploymentToolbox.TextUtils/DeploymentToolbox.TextUtils/DeploymentToolbox.TextUtils.csproj" Id="d0ef453c-226b-4f83-8fdc-6208f776afd3" />
+  <Project Path="DeploymentToolbox/DeploymentToolbox.csproj" Id="3c7cab3c-441e-4cc1-a902-dbd133426079" />
+</Solution>

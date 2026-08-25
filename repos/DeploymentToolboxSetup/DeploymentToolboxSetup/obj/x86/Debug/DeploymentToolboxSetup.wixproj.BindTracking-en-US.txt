@@ -1,0 +1,6 @@
+BuiltPdbOutput	C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\en-US\DeploymentToolboxSetup.wixpdb
+BuiltTargetOutput	C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\en-US\DeploymentToolboxSetup.msi
+Input	C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.exe
+Input	C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.MathEngine.dll
+Input	C:\Users\Tom\source\repos\DeploymentToolbox\DeploymentToolbox\bin\Debug\DeploymentToolbox.TextUtils.dll
+Intermediate	C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\en-US\#cab1.cab

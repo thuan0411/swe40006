@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\DeploymentToolbox.TextUtils\DeploymentToolbox.TextUtils\obj\Debug\DeploymentToolbox.TextUtils.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\DeploymentToolbox.TextUtils\DeploymentToolbox.TextUtils\obj\Debug\DeploymentToolbox.TextUtils.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\DeploymentToolbox.TextUtils\DeploymentToolbox.TextUtils\bin\Debug\DeploymentToolbox.TextUtils.dll
+C:\Users\Tom\source\repos\DeploymentToolbox.TextUtils\DeploymentToolbox.TextUtils\bin\Debug\DeploymentToolbox.TextUtils.pdb
+C:\Users\Tom\source\repos\DeploymentToolbox.TextUtils\DeploymentToolbox.TextUtils\obj\Debug\DeploymentToolbox.TextUtils.dll
+C:\Users\Tom\source\repos\DeploymentToolbox.TextUtils\DeploymentToolbox.TextUtils\obj\Debug\DeploymentToolbox.TextUtils.pdb

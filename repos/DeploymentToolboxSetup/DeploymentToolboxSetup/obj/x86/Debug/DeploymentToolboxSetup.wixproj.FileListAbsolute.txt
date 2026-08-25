@@ -1,0 +1,6 @@
+C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\DeploymentToolboxSetup.wixproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\bin\x86\Debug\en-US\DeploymentToolboxSetup.msi
+C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\bin\x86\Debug\en-US\DeploymentToolboxSetup.wixpdb
+C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\en-US\DeploymentToolboxSetup.msi
+C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\en-US\DeploymentToolboxSetup.wixpdb
+C:\Users\Tom\source\repos\DeploymentToolboxSetup\DeploymentToolboxSetup\obj\x86\Debug\DeploymentToolboxSetup.wixproj.BindTracking-en-US.txt
