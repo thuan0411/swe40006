@@ -1,0 +1,7 @@
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/SampleStarterApp
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/appsettings.json
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/SampleStarterApp.dll
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/SampleStarterApp.deps.json
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/SampleStarterApp.runtimeconfig.json
+/Users/thuanhuynhvu/Desktop/SWE40006/Task2/SampleStarterApp/bin/Release/net8.0/publish/SampleStarterApp.pdb
