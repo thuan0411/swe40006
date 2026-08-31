@@ -1,2 +1,11 @@
-TaskTrackerWeb/
+# macOS
+.DS_Store
+
+# .NET build output
+bin/
+obj/
+.vs/
+*.user
+
+# local working clone (not part of this repo)
 task_2/swe40006-repo/
